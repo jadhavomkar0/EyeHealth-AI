@@ -42,7 +42,7 @@ if app_mode == "Home":
     - Other conditions classified in 20 categories
 
     ### Get Started
-    Use the **Disease Detection** page to upload an image and explore the UI.
+    Use the **Disease Detection** page to upload an image.
     """)
 
 elif app_mode == "About":
